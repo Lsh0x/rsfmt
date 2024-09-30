@@ -1,5 +1,5 @@
 [package]
-name = "rsfmt"
+name = "rsfsm"
 version = "0.1.0"
 authors = ["LSH <github@lsh.tech>"]
 edition = "2021"

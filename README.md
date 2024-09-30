@@ -1,12 +1,12 @@
 # rbase
 Rust setup for new project
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/lsh0x/rsfmt)](https://github.com/lsh0x/rsfmt/commits/main)
-[![CI](https://github.com/lsh0x/rsfmt/workflows/CI/badge.svg)](https://github.com/lsh0x/rsfmt/actions)
-[![Codecov](https://codecov.io/gh/lsh0x/rsfmt/branch/main/graph/badge.svg)](https://codecov.io/gh/lsh0x/rsfmt)
-[![Docs](https://docs.rs/rsfmt/badge.svg)](https://docs.rs/rsfmt)
-[![Crates.io](https://img.shields.io/crates/v/rsfmt.svg)](https://crates.io/crates/rsfmt)
-[![crates.io](https://img.shields.io/crates/d/rsfmt)](https://crates.io/crates/rsfmt)
+[![GitHub last commit](https://img.shields.io/github/last-commit/lsh0x/rsfsm)](https://github.com/lsh0x/rsfsm/commits/main)
+[![CI](https://github.com/lsh0x/rsfsm/workflows/CI/badge.svg)](https://github.com/lsh0x/rsfsm/actions)
+[![Codecov](https://codecov.io/gh/lsh0x/rsfsm/branch/main/graph/badge.svg)](https://codecov.io/gh/lsh0x/rsfsm)
+[![Docs](https://docs.rs/rsfsm/badge.svg)](https://docs.rs/rsfsm)
+[![Crates.io](https://img.shields.io/crates/v/rsfsm.svg)](https://crates.io/crates/rsfsm)
+[![crates.io](https://img.shields.io/crates/d/rsfsm)](https://crates.io/crates/rsfsm)
 
 
 ### Adapt to your project 
